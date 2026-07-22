@@ -15,6 +15,6 @@
 [[2. Python Language Basics, IPython, and Jupyter Notebooks#strptime|strptime]]:Converts strings into `datetime` objects. #function 
 [[2. Python Language Basics, IPython, and Jupyter Notebooks#replace (datetime)|replace (datetime)]]: to replace time fields of a series of `datetime`s #function 
 [[2. Python Language Basics, IPython, and Jupyter Notebooks#timedelta and operations with `datetime`|timedelta]]: `datetime`  type for operating with dates (addition and substraction) #keyword 
-
+[[2. Python Language Basics, IPython, and Jupyter Notebooks#Range|range]]: Generates a sequence of evenly spaced integers. #function 
 
 
